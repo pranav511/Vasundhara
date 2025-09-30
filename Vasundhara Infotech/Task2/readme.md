@@ -4,7 +4,7 @@ post : http://localhost:4000/api/auth/signup
 
 {
   "name": "Admin Pranav",
-  "email": "prana@vtest.com",
+  "email": "adminprana@vtest.com",
   "password": "admin@123",
   "role": "admin"
 }
@@ -17,7 +17,7 @@ post : http://localhost:4000/api/auth/login
 
 {
   "name": "Customer Pranav",
-  "email": "pranavcust@vtest.com",
+  "email": "customerpranav@vtest.com",
   "password": "admin@123",
   "role": "customer"
 }
